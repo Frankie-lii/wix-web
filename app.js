@@ -14,16 +14,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Leaderboard Data
 const leaderboard = [
-    { rank: 1, profile: "images/profile1.jpg", name: "Alice Johnson", points: 2500 },
-    { rank: 2, profile: "images/profile2.jpg", name: "Bob Smith", points: 2400 },
-    { rank: 3, profile: "images/profile3.jpg", name: "Carol Williams", points: 2300 },
-    { rank: 4, profile: "images/profile4.jpg", name: "David Brown", points: 2200 },
-    { rank: 5, profile: "images/profile5.jpg", name: "Emma Davis", points: 2100 },
-    { rank: 6, profile: "images/profile6.jpg", name: "Frank Miller", points: 2000 },
-    { rank: 7, profile: "images/profile7.jpg", name: "Grace Lee", points: 1900 },
-    { rank: 8, profile: "images/profile8.jpg", name: "Hannah White", points: 1800 },
-    { rank: 9, profile: "images/profile9.jpg", name: "Ian Green", points: 1700 },
-    { rank: 10, profile: "images/profile10.jpg", name: "Jack Black", points: 1600 },
+    { rank: 1, profile: "profile1.jpg", name: "Alice Johnson", points: 2500 },
+    { rank: 2, profile: "profile2.jpg", name: "Bob Smith", points: 2400 },
+    { rank: 3, profile: "profile3.jpg", name: "Carol Williams", points: 2300 },
+    { rank: 4, profile: "profile4.jpg", name: "David Brown", points: 2200 },
+    { rank: 5, profile: "profile5.jpg", name: "Emma Davis", points: 2100 },
+    { rank: 6, profile: "profile6.jpg", name: "Frank Miller", points: 2000 },
+    { rank: 7, profile: "profile7.jpg", name: "Grace Lee", points: 1900 },
+    { rank: 8, profile: "profile8.jpg", name: "Hannah White", points: 1800 },
+    { rank: 9, profile: "profile9.jpg", name: "Ian Green", points: 1700 },
+    { rank: 10, profile: "profile10.jpg", name: "Jack Black", points: 1600 },
 
 ];
 
