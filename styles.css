@@ -76,7 +76,7 @@ nav.navbar .nav-links a:hover {
 /* Hero Section */
 
 .hero {
-    background: url('images/photo1.jpg') no-repeat center center/cover;
+    background: url('photo1.jpg') no-repeat center center/cover;
     height: 90vh;
     display: flex;
     align-items: center;
